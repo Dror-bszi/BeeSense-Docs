@@ -1,0 +1,77 @@
+{
+  "schemaVersion": 1,
+  "common": {
+    "language": "en",
+    "defaultZoomPercent": 100,
+    "largeFileWarningMb": 25
+  },
+  "docx": {
+    "defaultFitWidth": false,
+    "showOutlineByDefault": true,
+    "enableImagePreview": true
+  },
+  "pptx": {
+    "defaultFitWindow": true,
+    "showNavigationByDefault": true,
+    "showNotesByDefault": false
+  },
+  "xlsx": {
+    "defaultFitWidth": true
+  },
+  "readingStates": [
+    {
+      "path": "refrence/PDR-playable/pdr-2027-098(1).docx",
+      "mtime": 1792928620672,
+      "format": "docx",
+      "lastAccessed": 110,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "refrence/PDR-playable/pdr-2027-098.docx",
+      "mtime": 1792928620670,
+      "format": "docx",
+      "lastAccessed": 111,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "docs/pdr-2027-xxx.docx",
+      "mtime": 1792929461209,
+      "format": "docx",
+      "lastAccessed": 198,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 800
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    }
+  ]
+}
