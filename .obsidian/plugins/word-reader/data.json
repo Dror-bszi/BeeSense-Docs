@@ -20,10 +20,28 @@
   },
   "readingStates": [
     {
-      "path": "refrence/PDR-playable/pdr-2027-098.docx",
-      "mtime": 1792928779109,
+      "path": "refrence/PDR-playable/pdr-2027-098(1).docx",
+      "mtime": 1792928620672,
       "format": "docx",
-      "lastAccessed": 566,
+      "lastAccessed": 1183,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
+    },
+    {
+      "path": "refrence/PDR-playable/pdr-2027-098.docx",
+      "mtime": 1792928620670,
+      "format": "docx",
+      "lastAccessed": 1184,
       "position": {
         "scrollLeft": 0,
         "scrollTop": 0
@@ -39,15 +57,15 @@
     },
     {
       "path": "docs/pdr-2027-xxx.docx",
-      "mtime": 1792930467085,
+      "mtime": 1792932664724,
       "format": "docx",
-      "lastAccessed": 870,
+      "lastAccessed": 1498,
       "position": {
         "scrollLeft": 0,
-        "scrollTop": 0
+        "scrollTop": 1300
       },
       "zoom": {
-        "scale": 1.25,
+        "scale": 1,
         "fit": false
       },
       "navigation": {
