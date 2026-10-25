@@ -21,8 +21,8 @@
 | [1120955784821121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784821121) | Realpoy Module Wholesale Store | [HX711 module](https://www.aliexpress.com/item/1005006574602903.html) | Mini | 3 | $1.49 | $4.15 |
 | [1120955784841121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784841121) | U Consumer Store | [18650 holder 1S](https://www.aliexpress.com/item/1005005084346241.html) | 5pcs | 1 | $2.81 | $2.61 |
 | [1120955784761121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784761121) | Shop1105225628 Store | [Ceramic capacitor kit](https://www.aliexpress.com/item/1005010496806449.html) | 300pcs | 1 | $3.16 | $2.94 |
-| [1120955784861121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784861121) | Shop1104077326 Store | **שם פריט חסר** | – | – | – | $14.48 |
-| [1120955784781121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784781121) | Estardyn Choice Store | **שם פריט חסר** | – | – | – | $3.03 |
+| [1120955784861121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784861121) | Shop1104077326 Store | 50KG Human Scale Load Cell | 1–10PCS (לעדכן) | 1 | $5.80 | $14.48 (כנראה כולל פריטים נוספים) |
+| [1120955784781121](https://www.aliexpress.com/p/order/detail.html?orderId=1120955784781121) | Estardyn Choice Store | לוחות PCB | – | – | – | $3.03 |
 
 סה"כ 2.6: **$38.13**
 
@@ -30,3 +30,4 @@
 | פריט | כמות | הערה |
 |---|---|---|
 | ESP32-S3 | 1? | המרכזייה בכוורן – לעדכן דגם הלוח וכמות |
+| מודם סלולרי | 1? | לעדכן דגם מדויק |
