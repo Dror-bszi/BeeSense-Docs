@@ -26,7 +26,7 @@ git push origin main
 לא לצבור שינויים לסוף העבודה. בהתנגשות (conflict) – לעצור ולשאול, לעולם לא `--force`.
 
 ## מבנה ה-vault
-- `docs/` – תקציר (`abstract.md`) ודו"ח ה-PDR (`pdr-2027-xxx.docx`)
+- `docs/` – תקציר (`abstract.md`) ודו"ח ה-PDR (`pdr-2027-165.docx`)
 - `hardware/` – קטלוג הציוד: `README.md`, `inventory.csv`, `orders.md`, `components/`
 - `Instructions/` – נוהל הפרויקטים של המחלקה
 - `refrence/` – PDR לדוגמה (PlayAble)
