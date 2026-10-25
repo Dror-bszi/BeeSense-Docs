@@ -28,6 +28,7 @@ git push origin main
 ## מבנה ה-vault
 - `docs/` – תקציר (`abstract.md`) ודו"ח ה-PDR (`pdr-2027-165.docx`)
 - `hardware/` – קטלוג הציוד: `README.md`, `inventory.csv`, `orders.md`, `components/`
+- `software/` – הסבר על התוכנה (`README.md`); הקוד עצמו ב-repo נפרד: https://github.com/Dror-bszi/BeeSense (עותק מקומי: `\\wsl.localhost\Ubuntu\home\drorb\BeeSense`)
 - `Instructions/` – נוהל הפרויקטים של המחלקה
 - `refrence/` – PDR לדוגמה (PlayAble); `refrence/papers/` – קובצי המקורות של ה-PDR עם אינדקס (`README.md`)
 - `TODO.md` – משימות פתוחות
