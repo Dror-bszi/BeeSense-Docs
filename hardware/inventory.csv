@@ -13,3 +13,4 @@ HW-11,Connectors,JST XH 2.54 mm 3-pin plug kit (20 kits),3 Pin,1,20,2.96,2.60,20
 HW-12,Passives,Ceramic capacitor kit 50 V 2 pF-0.1 uF,300pcs bag,1,300,3.16,2.94,2026-06-02,1120955784761121,Shop1105225628 Store,https://www.aliexpress.com/item/1005010496806449.html,Decoupling and filtering,Completed
 HW-13,Unknown,?? (item name missing in order list),,?,?,,14.48,2026-06-02,1120955784861121,Shop1104077326 Store,https://www.aliexpress.com/p/order/detail.html?orderId=1120955784861121,TBD,Completed - needs identification
 HW-14,Unknown,?? (item name missing in order list),,?,?,,3.03,2026-06-02,1120955784781121,Estardyn Choice Store,https://www.aliexpress.com/p/order/detail.html?orderId=1120955784781121,TBD,Completed - needs identification
+HW-15,MCU,ESP32-S3 development board,? (board model TBD),?,1?,,,,,In stock (not from listed orders),,Hub/gateway at the apiary: receives ESP-NOW from hive nodes and uploads to the cloud,In stock
