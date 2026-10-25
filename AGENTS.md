@@ -29,5 +29,5 @@ git push origin main
 - `docs/` – תקציר (`abstract.md`) ודו"ח ה-PDR (`pdr-2027-165.docx`)
 - `hardware/` – קטלוג הציוד: `README.md`, `inventory.csv`, `orders.md`, `components/`
 - `Instructions/` – נוהל הפרויקטים של המחלקה
-- `refrence/` – PDR לדוגמה (PlayAble)
+- `refrence/` – PDR לדוגמה (PlayAble); `refrence/papers/` – קובצי המקורות של ה-PDR עם אינדקס (`README.md`)
 - `TODO.md` – משימות פתוחות
