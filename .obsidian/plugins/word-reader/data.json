@@ -72,6 +72,24 @@
         "panelVisible": true,
         "collapsedIds": []
       }
+    },
+    {
+      "path": "docs/pdr-2027-165.docx",
+      "mtime": 1792935319915,
+      "format": "docx",
+      "lastAccessed": 2353,
+      "position": {
+        "scrollLeft": 0,
+        "scrollTop": 0
+      },
+      "zoom": {
+        "scale": 1.2000000000000002,
+        "fit": false
+      },
+      "navigation": {
+        "panelVisible": true,
+        "collapsedIds": []
+      }
     }
   ]
 }
